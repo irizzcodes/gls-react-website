@@ -1,4 +1,5 @@
 const NavBar = () => {
+    return (
     <nav>
         <div>
             <img src="" alt="" />
@@ -11,7 +12,7 @@ const NavBar = () => {
             <li><a href="">Contact</a></li>
         </ul>
     </nav>
-
+    )
 }
 
 export default NavBar
