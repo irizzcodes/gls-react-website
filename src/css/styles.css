@@ -1,0 +1,192 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+body {
+    margin: 0;
+    padding: 0; 
+    background: var(--background);
+    font-family: 'Poppins', sans-serif;
+}
+
+:root[data-theme="light"] {
+    --text: #131210;
+    --text-special: #efeeec;
+    --background: #faf9f5;
+    --background-secondary:#17150e;
+    --primary: #b5ac5e;
+    --secondary: #dbd38f;
+    --accent: #e0d46c;
+  }
+  :root[data-theme="dark"] {
+    --text: #efeeec;
+    --text-special: #efeeec;
+    --background: #0a0905;
+    --background-secondary: #17150e;
+    --primary: #a1984a;
+    --secondary: #706824;
+    --accent: #93881f;
+  }
+
+  :root[data-theme="light"] {
+    --text-50: #f3f3f1;
+    --text-100: #e8e6e3;
+    --text-200: #d1cec7;
+    --text-300: #b9b5ac;
+    --text-400: #a29c90;
+    --text-500: #8b8374;
+    --text-600: #6f695d;
+    --text-700: #534f46;
+    --text-800: #38352e;
+    --text-900: #1c1a17;
+    --text-950: #0e0d0c;
+  
+    --background-50: #f6f5ee;
+    --background-100: #eeebdd;
+    --background-200: #ddd6bb;
+    --background-300: #ccc299;
+    --background-400: #bbad77;
+    --background-500: #aa9955;
+    --background-600: #887a44;
+    --background-700: #665c33;
+    --background-800: #443d22;
+    --background-900: #221f11;
+    --background-950: #110f09;
+  
+    --primary-50: #f7f6ee;
+    --primary-100: #efeddc;
+    --primary-200: #dfdbb9;
+    --primary-300: #cfc996;
+    --primary-400: #bfb773;
+    --primary-500: #afa550;
+    --primary-600: #8c8440;
+    --primary-700: #696330;
+    --primary-800: #464220;
+    --primary-900: #232110;
+    --primary-950: #111108;
+  
+    --secondary-50: #f9f7ec;
+    --secondary-100: #f3f0d8;
+    --secondary-200: #e6e1b2;
+    --secondary-300: #dad28b;
+    --secondary-400: #cdc365;
+    --secondary-500: #c1b43e;
+    --secondary-600: #9a9032;
+    --secondary-700: #746c25;
+    --secondary-800: #4d4819;
+    --secondary-900: #27240c;
+    --secondary-950: #131206;
+  
+    --accent-50: #fbf9ea;
+    --accent-100: #f6f3d5;
+    --accent-200: #ede7ab;
+    --accent-300: #e4da81;
+    --accent-400: #dbce57;
+    --accent-500: #d2c22d;
+    --accent-600: #a89b24;
+    --accent-700: #7e741b;
+    --accent-800: #544e12;
+    --accent-900: #2a2709;
+    --accent-950: #151304;
+  
+  }
+  :root[data-theme="dark"] {
+    --text-50: #0e0d0c;
+    --text-100: #1c1a17;
+    --text-200: #38352e;
+    --text-300: #534f46;
+    --text-400: #6f695d;
+    --text-500: #8b8374;
+    --text-600: #a29c90;
+    --text-700: #b9b5ac;
+    --text-800: #d1cec7;
+    --text-900: #e8e6e3;
+    --text-950: #f3f3f1;
+  
+    --background-50: #110f09;
+    --background-100: #221f11;
+    --background-200: #443d22;
+    --background-300: #665c33;
+    --background-400: #887a44;
+    --background-500: #aa9955;
+    --background-600: #bbad77;
+    --background-700: #ccc299;
+    --background-800: #ddd6bb;
+    --background-900: #eeebdd;
+    --background-950: #f6f5ee;
+  
+    --primary-50: #111108;
+    --primary-100: #232110;
+    --primary-200: #464220;
+    --primary-300: #696330;
+    --primary-400: #8c8440;
+    --primary-500: #afa550;
+    --primary-600: #bfb773;
+    --primary-700: #cfc996;
+    --primary-800: #dfdbb9;
+    --primary-900: #efeddc;
+    --primary-950: #f7f6ee;
+  
+    --secondary-50: #131206;
+    --secondary-100: #27240c;
+    --secondary-200: #4d4819;
+    --secondary-300: #746c25;
+    --secondary-400: #9a9032;
+    --secondary-500: #c1b43e;
+    --secondary-600: #cdc365;
+    --secondary-700: #dad28b;
+    --secondary-800: #e6e1b2;
+    --secondary-900: #f3f0d8;
+    --secondary-950: #f9f7ec;
+  
+    --accent-50: #151304;
+    --accent-100: #2a2709;
+    --accent-200: #544e12;
+    --accent-300: #7e741b;
+    --accent-400: #a89b24;
+    --accent-500: #d2c22d;
+    --accent-600: #dbce57;
+    --accent-700: #e4da81;
+    --accent-800: #ede7ab;
+    --accent-900: #f6f3d5;
+    --accent-950: #fbf9ea;
+  
+  }
+
+  /* @link https://utopia.fyi/type/calculator?c=320,20,1.2,1240,20,1.25,5,2,&s=0.75|0.5|0.25,1.5|2|3|4|6,s-l&g=s,l,xl,12 */
+
+:root {
+    --step--2: clamp(0.8rem, 0.8917rem + -0.1184vw, 0.8681rem);
+    --step--1: clamp(1rem, 1.0562rem + -0.0725vw, 1.0417rem);
+    --step-0: clamp(1.25rem, 1.25rem + 0vw, 1.25rem);
+    --step-1: clamp(1.5rem, 1.4783rem + 0.1087vw, 1.5625rem);
+    --step-2: clamp(1.8rem, 1.7467rem + 0.2663vw, 1.9531rem);
+    --step-3: clamp(2.16rem, 2.0621rem + 0.4894vw, 2.4414rem);
+    --step-4: clamp(2.592rem, 2.4321rem + 0.7996vw, 3.0518rem);
+    --step-5: clamp(3.1104rem, 2.8654rem + 1.2249vw, 3.8147rem);
+  }
+
+  /* @link https://utopia.fyi/space/calculator?c=320,20,1.2,1240,20,1.25,5,2,&s=0.75|0.5|0.25,1.5|2|3|4|6,s-l&g=s,l,xl,12 */
+
+:root {
+    --space-3xs: clamp(0.3125rem, 0.3125rem + 0vw, 0.3125rem);
+    --space-2xs: clamp(0.625rem, 0.625rem + 0vw, 0.625rem);
+    --space-xs: clamp(0.9375rem, 0.9375rem + 0vw, 0.9375rem);
+    --space-s: clamp(1.25rem, 1.25rem + 0vw, 1.25rem);
+    --space-m: clamp(1.875rem, 1.875rem + 0vw, 1.875rem);
+    --space-l: clamp(2.5rem, 2.5rem + 0vw, 2.5rem);
+    --space-xl: clamp(3.75rem, 3.75rem + 0vw, 3.75rem);
+    --space-2xl: clamp(5rem, 5rem + 0vw, 5rem);
+    --space-3xl: clamp(7.5rem, 7.5rem + 0vw, 7.5rem);
+  
+    /* One-up pairs */
+    --space-3xs-2xs: clamp(0.3125rem, 0.2038rem + 0.5435vw, 0.625rem);
+    --space-2xs-xs: clamp(0.625rem, 0.5163rem + 0.5435vw, 0.9375rem);
+    --space-xs-s: clamp(0.9375rem, 0.8288rem + 0.5435vw, 1.25rem);
+    --space-s-m: clamp(1.25rem, 1.0326rem + 1.087vw, 1.875rem);
+    --space-m-l: clamp(1.875rem, 1.6576rem + 1.087vw, 2.5rem);
+    --space-l-xl: clamp(2.5rem, 2.0652rem + 2.1739vw, 3.75rem);
+    --space-xl-2xl: clamp(3.75rem, 3.3152rem + 2.1739vw, 5rem);
+    --space-2xl-3xl: clamp(5rem, 4.1304rem + 4.3478vw, 7.5rem);
+  
+    /* Custom pairs */
+    --space-s-l: clamp(1.25rem, 0.8152rem + 2.1739vw, 2.5rem);
+  }

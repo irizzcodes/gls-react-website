@@ -1,4 +1,4 @@
-
+import '../css/cards.css'
 
 const Card = ({ image, title, search, openModal}) =>{
 

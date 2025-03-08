@@ -1,6 +1,7 @@
 import Card from './Card'
 import SelectedCard from './SelectedCard'
 import { useState, useEffect } from 'react';
+import '../css/cards.css'
 
 const CardLayout = () => {
     const [selectedCard, setSelectedCard] = useState(null);
@@ -21,9 +22,9 @@ const CardLayout = () => {
         setSelectedCard(null);
     }
 
-    return <div>
+    return <div className="card-container">
         {cards.map((card, index) => (
-            <Card key={index} title={card.title} lightcone={card.lightcone}
+            <Card key={index} title={card.title} search={card.search}
              image={card.image} openModal={() => openModal(card)} />
         ))}
         {selectedCard && <SelectedCard selectedCard={selectedCard} closeModal={closeModal} />}

@@ -1,10 +1,12 @@
 import CardLayout from "../components/CardLayout";
+import Footer from "../components/Footer";
+import "../css/styles.css";
 function Home() {
     
 
     return <div className="home">
-        <h1>Hello World!</h1>
         <CardLayout />
+        <Footer />
     </div>
 
 }

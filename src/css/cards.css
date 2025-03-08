@@ -1,0 +1,27 @@
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-s);
+    margin-left: var(--space-l);
+    margin-right: var(--space-l);
+    justify-content: center;
+}
+
+.card {
+    display: flex;
+    flex: 1 1 calc(33.33% - var(--space-s));
+    flex-direction: column;
+    max-width: clamp(300px, 30vw, 600px);
+    align-items: center;
+    margin-bottom: var(--space-l);
+    margin-top: var(--space-s);
+    color: var(--text);
+    padding-bottom: var(--space-l);
+    padding-top: var(--space-m);
+    text-align: center;
+}
+
+.card p {
+    margin-left: var(--space-l);
+    margin-right: var(--space-l);
+}
