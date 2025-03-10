@@ -10,8 +10,9 @@ body {
 :root[data-theme="light"] {
     --text: #131210;
     --text-special: #efeeec;
-    --background: #faf9f5;
+    --background: #eeebdd;
     --background-secondary:#17150e;
+    --background-tri: #ddd6bb;
     --primary: #b5ac5e;
     --secondary: #dbd38f;
     --accent: #e0d46c;
@@ -21,6 +22,7 @@ body {
     --text-special: #efeeec;
     --background: #0a0905;
     --background-secondary: #17150e;
+    --background-tri: #221f11;
     --primary: #a1984a;
     --secondary: #706824;
     --accent: #93881f;

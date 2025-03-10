@@ -1,50 +1,345 @@
 [
     {
+        "region": "Mondstadt",
         "title": "Calla Lily",
         "search": "Found near lakes in Mondstadt, especially Springvale",
-        "img": "",
+        "image": "/assets/calla-lily.png",
         "text": ""
     },
     {
+        "region": "Mondstadt",
         "title": "Cecilia",
         "search": "Found in the wild on Starsnatch Cliff",
-        "img": "",
+        "image": "/assets/cecilia.png",
         "text": ""
     },
     {
+        "region": "Mondstadt",
         "title": "Dandelion Seed",
         "search": "Found in the wild in Mondstadt",
-        "img": "",
+        "image": "/assets/dandelion.png",
         "text": ""
     },
     {
+        "region": "Mondstadt",
         "title": "Philanemo Mushroom",
         "search": "Found under the eaves of houses in Mondstadt",
-        "img": "",
+        "image": "/assets/philanemo-mushroom.png",
         "text": ""
     },
     {
+        "region": "Mondstadt",
         "title": "Small Lamp Grass",
         "search": "Found in the wild in Mondstadt, especially Whispering Woods",
-        "img": "",
+        "image": "/assets/lamp-grass.png",
         "text": ""
     },
     {
+        "region": "Mondstadt",
         "title": "Valberry",
         "search": "Found in the wild around Stormbearer Mountains and Point",
-        "img": "",
+        "image": "/assets/valberry.png",
         "text": ""
     },
     {
+        "region": "Mondstadt",
         "title": "Windwheel Aster",
         "search": "Found near the Statue at Windrise and Dawn Winery",
-        "img": "",
+        "image": "/assets/windwheel-aster.png",
         "text": ""
     },
     {
+        "region": "Mondstadt",
         "title": "Wolfhook",
         "search": "Found in the wild in Wolvendom",
-        "img": "",
+        "image": "/assets/wolfhook.png",
+        "text": ""
+    },
+    {
+        "region": "Liyue",
+        "title": "Clearwater Jade",
+        "search": "Found in Chenyu Vale",
+        "image": "/assets/clearwater-jade.png",
+        "text": ""
+    },
+    {
+        "region": "Liyue",
+        "title": "Cor Lapis",
+        "search": "Found under cliffs in Liyue, especially Mt. Hulao",
+        "image": "/assets/cor-lapis.png",
+        "text": ""
+    },
+    {
+        "region": "Liyue",
+        "title": "Glazy Lily",
+        "search": "Found in Liyue Harbor and Qingce Vilalge",
+        "image": "/assets/glaze-lily.png",
+        "text": ""
+    },
+    {
+        "region": "Liyue",
+        "title": "Jueyun Chili",
+        "search": "Found in the wild in Minlin, Qingce Village and Stone Gate",
+        "image": "/assets/jueyun-chili.png",
+        "text": ""
+    },
+    {
+        "region": "Liyue",
+        "title": "Noctilucous Jade",
+        "search": "Found in caves in Liyue, especially Mingyun Village",
+        "image": "/assets/wolfhook.png",
+        "text": ""
+    },
+    {
+        "region": "Liyue",
+        "title": "Qingxin",
+        "search": "Found in the heights of Liyue",
+        "image": "/assets/qingxin.png",
+        "text": ""
+    },
+    {
+        "region": "Liyue",
+        "title": "Silk Flower",
+        "search": "Found in Liyue Harbor and Wangshu Inn",
+        "image": "/assets/silk-flower.png",
+        "text": ""
+    },
+    {
+        "region": "Liyue",
+        "title": "Starconch",
+        "search": "Found on the beaches of Liyue and Dragonspine",
+        "image": "/assets/starconch.png",
+        "text": ""
+    },
+    {
+        "region": "Liyue",
+        "title": "Violetgrass",
+        "search": "Found near cliffs in Liyue",
+        "image": "/assets/violetgrass.png",
+        "text": ""
+    },
+    {
+        "region": "Inazuma",
+        "title": "Amakumo Fruit",
+        "search": "Found in the wild on Seira Island",
+        "image": "/assets/amakumo-fruit.png",
+        "text": ""
+    },
+    {
+        "region": "Inazuma",
+        "title": "Crystal Marrow",
+        "search": "Found on Orobashi's bones on Yashiori and Tatarasuna",
+        "image": "/assets/crystal-marrow.png",
+        "text": ""
+    },
+    {
+        "region": "Inazuma",
+        "title": "Dendrobium",
+        "search": "Found in the wild on Kannazuka and Yashiori",
+        "image": "/assets/dendrobium.png",
+        "text": ""
+    },
+    {
+        "region": "Inazuma",
+        "title": "Fluorescent Fungus",
+        "search": "Found in the wild on Tsurumi Island",
+        "image": "/assets/fluorescent-fungus.png",
+        "text": ""
+    },
+    {
+        "region": "Inazuma",
+        "title": "Naku Weed",
+        "search": "Found in areas of high electro concentration",
+        "image": "/assets/naku-weed.png",
+        "text": ""
+    },
+    {
+        "region": "Inazuma",
+        "title": "Onikabuto",
+        "search": "Found in areas of high electro concentration",
+        "image": "/assets/onikabuto.png",
+        "text": ""
+    },
+    {
+        "region": "Inazuma",
+        "title": "Sakura Bloom",
+        "search": "Found in the wild on Narukami Island",
+        "image": "/assets/wolfhook.png",
+        "text": ""
+    },
+    {
+        "region": "Inazuma",
+        "title": "Sango Pearl",
+        "search": "Found in the wild on Watatsumi Island",
+        "image": "/assets/sango-pearl.png",
+        "text": ""
+    },
+    {
+        "region": "Inazuma",
+        "title": "Sea Ganoderma",
+        "search": "Found on beaches and tidal flats of Inazuma",
+        "image": "/assets/sea-ganoderma.png",
+        "text": ""
+    },
+    {
+        "region": "Sumeru",
+        "title": "Henna Berry",
+        "search": "Found in the deserts of Sumeru",
+        "image": "/assets/henna-berry.png",
+        "text": ""
+    },
+    {
+        "region": "Sumeru",
+        "title": "Kalpalata Lotus",
+        "search": "Found in the mountains of Sumeru",
+        "image": "/assets/kalpalata-lotus.png",
+        "text": ""
+    },
+    {
+        "region": "Sumeru",
+        "title": "Mourning Flower",
+        "search": "Found in the deserts of Sumeru",
+        "image": "/assets/mourning-flower.png",
+        "text": ""
+    },
+    {
+        "region": "Sumeru",
+        "title": "Nilotpala Lotus",
+        "search": "Found near lakes and river banks in Sumeru",
+        "image": "/assets/nilotpala-lotus.png",
+        "text": ""
+    },
+    {
+        "region": "Sumeru",
+        "title": "Padisarah",
+        "search": "Found in Sumeru City",
+        "image": "/assets/padisarah.png",
+        "text": ""
+    },
+    {
+        "region": "Sumeru",
+        "title": "Rukkhashava Mushrooms",
+        "search": "Found in the wild in the Ashavan and Lokapala",
+        "image": "/assets/rukkhashava-mushroom.png",
+        "text": ""
+    },
+    {
+        "region": "Sumeru",
+        "title": "Sand Grease Pupa",
+        "search": "Found in the deserts of Sumeru",
+        "image": "/assets/sand-grease-pupa.png",
+        "text": ""
+    },
+    {
+        "region": "Sumeru",
+        "title": "Scarab",
+        "search": "Found in the desert ruins of Sumeru",
+        "image": "/assets/.png",
+        "text": ""
+    },
+    {
+        "region": "Sumeru",
+        "title": "Trishiraite",
+        "search": "Found in the deserts of Sumeru",
+        "image": "/assets/trishiraite.png",
+        "text": ""
+    },
+    {
+        "region": "Fontaine",
+        "title": "Beryl Conch",
+        "search": "Found underwater in the Source of All Waters",
+        "image": "/assets/beryl-conch.png",
+        "text": ""
+    },
+    {
+        "region": "Fontaine",
+        "title": "Lakelight Lily ",
+        "search": "Found near bodies of wter in Erinnyes Forest",
+        "image": "/assets/lakelight-lily.png",
+        "text": ""
+    },
+    {
+        "region": "Fontaine",
+        "title": "Lumidouce Bell",
+        "search": "Found in the north of the Court of Fontaine",
+        "image": "/assets/lumidouce-bell.png",
+        "text": ""
+    },
+    {
+        "region": "Fontaine",
+        "title": "Lumitoile",
+        "search": "Found on the beaches and underwater in Liffey Region",
+        "image": "/assets/.png",
+        "text": ""
+    },
+    {
+        "region": "Fontaine",
+        "title": "Rainbow Rose",
+        "search": "Found in the wilds of Beryl Region",
+        "image": "/assets/rainbow-rose.png",
+        "text": ""
+    },
+    {
+        "region": "Fontaine",
+        "title": "Romaritime Flower",
+        "search": "Found mainly in or around bodies of water in Fontaine",
+        "image": "/assets/romaritime-flower.png",
+        "text": ""
+    },
+    {
+        "region": "Fontaine",
+        "title": "Spring of the First Dewdrop",
+        "search": "Found underwater surrounding the Tower of Ipsissimus",
+        "image": "/assets/spring-of-the-first-dewdrop.png",
+        "text": ""
+    },
+    {
+        "region": "Fontaine",
+        "title": "Subdetection Unit",
+        "search": "Found in Fontaine Research Institute of Kinetic Energy",
+        "image": "/assets/subdetection-unit.png",
+        "text": ""
+    },
+    {
+        "region": "Natlan",
+        "title": "Brilliant Chrysanthemum",
+        "search": "Found in Natlan",
+        "image": "/assets/brilliant-chrysanthemum.png",
+        "text": ""
+    },
+    {
+        "region": "Natlan",
+        "title": "Glowing Hornshroom",
+        "search": "Found in Tezcatepetonco Range",
+        "image": "/assets/glowing-mushroom.png",
+        "text": ""
+    },
+    {
+        "region": "Natlan",
+        "title": "Quenapa Berry",
+        "search": "Found in Natlan",
+        "image": "/assets/quenapa-berry.png",
+        "text": ""
+    },
+    {
+        "region": "Natlan",
+        "title": "Saurian Claw Succulent",
+        "search": "Found in Natlan",
+        "image": "/assets/saurian-claw-succulent.png",
+        "text": ""
+    },
+    {
+        "region": "Natlan",
+        "title": "Sprayfeather Gill",
+        "search": "Found in Natlan",
+        "image": "/assets/sprayfeather-gill.png",
+        "text": ""
+    },
+    {
+        "region": "Natlan",
+        "title": "Withering Purpurbloom",
+        "search": "Found in Natlan",
+        "image": "/assets/withering-purpurbloom.png",
         "text": ""
     }
 ]

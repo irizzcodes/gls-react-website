@@ -13,12 +13,14 @@
     flex-direction: column;
     max-width: clamp(300px, 30vw, 600px);
     align-items: center;
-    margin-bottom: var(--space-l);
+    margin-bottom: var(--space-m);
     margin-top: var(--space-s);
     color: var(--text);
     padding-bottom: var(--space-l);
     padding-top: var(--space-m);
     text-align: center;
+    background: var(--background-tri);
+    border-radius: 10px;
 }
 
 .card p {

@@ -1,7 +1,15 @@
 footer {
     display: flex;
-    margin-left: var(--space-l);
-    margin-right: var(--space-l);
+    padding-top: var(--space-xs);
+    padding-bottom: var(--space-xs);
+    padding-left: var(--space-l);
+    padding-right: var(--space-l);
     justify-content: space-between;
     align-items: center;
+    background: var(--background-secondary);
+    color: var(--primary)
+}
+
+.copyright-group p {
+    color: var(--secondary)
 }
