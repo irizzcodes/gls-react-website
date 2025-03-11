@@ -66,21 +66,21 @@
         "region": "Liyue",
         "title": "Cor Lapis",
         "search": "Found under cliffs in Liyue, especially Mt. Hulao",
-        "image": "/assets/cor-lapis.png",
+        "image": "/assets/cor_lapis.png",
         "text": ""
     },
     {
         "region": "Liyue",
         "title": "Glazy Lily",
         "search": "Found in Liyue Harbor and Qingce Vilalge",
-        "image": "/assets/glaze-lily.png",
+        "image": "/assets/glaze_lily.png",
         "text": ""
     },
     {
         "region": "Liyue",
         "title": "Jueyun Chili",
         "search": "Found in the wild in Minlin, Qingce Village and Stone Gate",
-        "image": "/assets/jueyun-chili.png",
+        "image": "/assets/jueyun_chili.png",
         "text": ""
     },
     {
@@ -234,7 +234,7 @@
         "region": "Sumeru",
         "title": "Scarab",
         "search": "Found in the desert ruins of Sumeru",
-        "image": "/assets/.png",
+        "image": "/assets/scarab.png",
         "text": ""
     },
     {
@@ -269,7 +269,7 @@
         "region": "Fontaine",
         "title": "Lumitoile",
         "search": "Found on the beaches and underwater in Liffey Region",
-        "image": "/assets/.png",
+        "image": "/assets/lumitoile.png",
         "text": ""
     },
     {
@@ -311,7 +311,7 @@
         "region": "Natlan",
         "title": "Glowing Hornshroom",
         "search": "Found in Tezcatepetonco Range",
-        "image": "/assets/glowing-mushroom.png",
+        "image": "/assets/glowing-hornshroom.png",
         "text": ""
     },
     {
