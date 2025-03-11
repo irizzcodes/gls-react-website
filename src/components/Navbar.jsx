@@ -10,7 +10,7 @@ const NavBar = () => {
     <nav>
         <div className="logo-group">
             <img src={logo} alt="logo" />
-            <h1>Mondstadt Local Specialty</h1>
+            <h1>Genshin Local Specialties</h1>
         </div>
         <div className="nav-group">
             <ul className="nav-link">
