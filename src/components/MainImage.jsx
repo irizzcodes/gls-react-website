@@ -9,22 +9,22 @@ const MainImage = ({ image, changeImage }) => {
     </div>
     <div className="image-buttons-container">
         <button className="image-button">
-            <img src="/assets/mondstadt.png" onclick={changeImage} />
+            <img src="/assets/mondstadt.png" onClick={() => changeImage("mondstadt")} />
         </button>
         <button className="image-button">
-            <img src="/assets/liyue.png" onclick={changeImage} />
+            <img src="/assets/liyue.png" onClick={() => changeImage("liyue")} />
         </button>
         <button className="image-button">
-            <img src="/assets/inazuma.png" onclick={changeImage} />
+            <img src="/assets/inazuma.png" onClick={() => changeImage("inazuma")} />
         </button>
         <button className="image-button">
-            <img src="/assets/sumeru.png" onclick={changeImage} />
+            <img src="/assets/sumeru.png" onClick={() => changeImage("sumeru")} />
         </button>
         <button className="image-button">
-            <img src="/assets/fontaine.png" onclick={changeImage} />
+            <img src="/assets/fontaine.png" onClick={() => changeImage("fontaine")} />
         </button>
         <button className="image-button">
-            <img src="/assets/natlan.png" onclick={changeImage} />
+            <img src="/assets/natlan.png" onClick={() => changeImage("natlan")} />
         </button>
     </div>
     </>

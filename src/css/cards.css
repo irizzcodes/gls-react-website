@@ -27,3 +27,7 @@
     margin-left: var(--space-l);
     margin-right: var(--space-l);
 }
+
+.card-image {
+    width: clamp(80px,20vw,200px)
+}

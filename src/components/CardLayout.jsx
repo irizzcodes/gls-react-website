@@ -3,7 +3,7 @@ import SelectedCard from './SelectedCard'
 import { useState, useEffect } from 'react';
 import '../css/cards.css'
 
-const CardLayout = () => {
+const CardLayout = ( { selectedLocation }) => {
     const [selectedCard, setSelectedCard] = useState(null);
     const [cards, setCards] = useState([]);
 
@@ -22,11 +22,20 @@ const CardLayout = () => {
         setSelectedCard(null);
     }
 
+    const filteredCard = cards.filter(
+        card => card.location === selectedLocation
+    )
+
     return <div className="card-container">
-        {cards.map((card, index) => (
-            <Card key={index} title={card.title} search={card.search}
-             image={card.image} openModal={() => openModal(card)} />
-        ))}
+        {filteredCard.length > 0 ? (
+            filteredCard.map((card, index) => (
+                <Card key={index} title={card.title} search={card.search}
+                image={card.image} openModal={() => openModal(card)} />
+            ))
+        ) : (
+            <p>No cards found</p>
+        )
+        }
         {selectedCard && <SelectedCard selectedCard={selectedCard} closeModal={closeModal} />}
     </div>
 
