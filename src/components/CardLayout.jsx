@@ -22,8 +22,10 @@ const CardLayout = ( { selectedLocation }) => {
         setSelectedCard(null);
     }
 
+    const formattedLocation = selectedLocation.charAt(0).toUpperCase() + selectedLocation.slice(1).toLowerCase();
+
     const filteredCard = cards.filter(
-        card => card.location === selectedLocation
+        card => card.region === formattedLocation
     )
 
     return <div className="card-container">
