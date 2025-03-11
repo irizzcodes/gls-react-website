@@ -31,7 +31,7 @@ const CardLayout = ( { selectedLocation, mainImages }) => {
     return <div>
     <div className="card-title">
         <h1>{formattedLocation}</h1>
-        <p>{mainImages.title}</p>
+        <p>{mainImages?.title}</p>
     </div>
     <div className="card-container">
         {filteredCard.length > 0 ? (
