@@ -1,0 +1,26 @@
+[
+    {
+        "location":"mondstadt",
+        "image":"/assets/mondstadt-bg.png"
+    },
+    {
+        "location":"liyue",
+        "image":"/assets/liyue-bg.png"
+    },
+    {
+        "location":"inazuma",
+        "image":"/assets/inazuma-bg.png"
+    },
+    {
+        "location":"sumeru",
+        "image":"/assets/sumeru-bg.png"
+    },
+    {
+        "location":"fontaine",
+        "image":"/assets/fontaine-bg.png"
+    },
+    {
+        "location":"natlan",
+        "image":"/assets/natlan-bg.png"
+    }
+]

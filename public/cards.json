@@ -87,7 +87,7 @@
         "region": "Liyue",
         "title": "Noctilucous Jade",
         "search": "Found in caves in Liyue, especially Mingyun Village",
-        "image": "/assets/wolfhook.png",
+        "image": "/assets/noctilucous-jade.png",
         "text": ""
     },
     {
@@ -164,7 +164,7 @@
         "region": "Inazuma",
         "title": "Sakura Bloom",
         "search": "Found in the wild on Narukami Island",
-        "image": "/assets/wolfhook.png",
+        "image": "/assets/sakura-bloom.png",
         "text": ""
     },
     {
