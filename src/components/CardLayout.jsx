@@ -3,7 +3,7 @@ import SelectedCard from './SelectedCard'
 import { useState, useEffect } from 'react';
 import '../css/cards.css'
 
-const CardLayout = ( { selectedLocation }) => {
+const CardLayout = ( { selectedLocation, mainImages }) => {
     const [selectedCard, setSelectedCard] = useState(null);
     const [cards, setCards] = useState([]);
 
@@ -28,7 +28,12 @@ const CardLayout = ( { selectedLocation }) => {
         card => card.region === formattedLocation
     )
 
-    return <div className="card-container">
+    return <div>
+    <div className="card-title">
+        <h1>{formattedLocation}</h1>
+        <p>{mainImages.title}</p>
+    </div>
+    <div className="card-container">
         {filteredCard.length > 0 ? (
             filteredCard.map((card, index) => (
                 <Card key={index} title={card.title} search={card.search}
@@ -39,6 +44,7 @@ const CardLayout = ( { selectedLocation }) => {
         )
         }
         {selectedCard && <SelectedCard selectedCard={selectedCard} closeModal={closeModal} />}
+    </div>
     </div>
 
 };

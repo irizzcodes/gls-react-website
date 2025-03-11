@@ -1,26 +1,32 @@
 [
     {
         "location":"mondstadt",
-        "image":"/assets/mondstadt-bg.png"
+        "image":"/assets/mondstadt-bg.png",
+        "title":"City of Freedom"
     },
     {
         "location":"liyue",
-        "image":"/assets/liyue-bg.png"
+        "image":"/assets/liyue-bg.png",
+        "title":"City of Contracts"
     },
     {
         "location":"inazuma",
-        "image":"/assets/inazuma-bg.png"
+        "image":"/assets/inazuma-bg.png",
+        "title":"Nation of Eternity"
     },
     {
         "location":"sumeru",
-        "image":"/assets/sumeru-bg.png"
+        "image":"/assets/sumeru-bg.png",
+        "title":"Land of Wisdom"
     },
     {
         "location":"fontaine",
-        "image":"/assets/fontaine-bg.png"
+        "image":"/assets/fontaine-bg.png",
+        "title":"Nation of Justice"
     },
     {
         "location":"natlan",
-        "image":"/assets/natlan-bg.png"
+        "image":"/assets/natlan-bg.png",
+        "title":"Nation of War"
     }
 ]

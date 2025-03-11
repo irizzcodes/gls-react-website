@@ -31,3 +31,12 @@
 .card-image {
     width: clamp(80px,20vw,200px)
 }
+
+.card-title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: var(--text);
+    padding: var(--space-l);
+}

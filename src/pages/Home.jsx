@@ -29,7 +29,7 @@ function Home() {
             ) : (
                 <p>Loading...</p> // Display a placeholder while loading
             )}
-        <CardLayout selectedLocation={selectImage}/>
+        <CardLayout selectedLocation={selectImage} mainImages={currentMainImage}/>
         <Footer />
     </div>
 
