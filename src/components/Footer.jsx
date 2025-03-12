@@ -1,15 +1,29 @@
 import '../css/footer.css'
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faFacebook, faXTwitter, faGithub } from "@fortawesome/free-brands-svg-icons";
 
 const Footer = () => {
 
     return (
         <footer>
             <div className="web-logo">
-                <p>hello world</p>
+                <h2>Contact</h2>
+                <p>gennrey@gmail.com</p>
+                <div className="web-logos">
+                    <a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/Alao.is.the.best/">
+                        <FontAwesomeIcon className="faIcon" icon={faFacebook} />
+                    </a>
+                    <a target="_blank" rel="noopener noreferrer" href="https://x.com/home">
+                        <FontAwesomeIcon className="faIcon" icon={faXTwitter} />
+                    </a>
+                    <a target="_blank" rel="noopener noreferrer" href="https://github.com/irizzcodes">
+                        <FontAwesomeIcon className="faIcon" icon={faGithub} />
+                    </a>
+                </div>
             </div>
             <div className="copyright-group">
+                <h3>© Copyright 2025 | Genn Rey Alao / Irizzcodes</h3>
                 <p>Made with HTML, Vanilla CSS, Javascript, and React</p>
-                <h3>Copyright</h3>
             </div>
         </footer>
     )

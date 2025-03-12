@@ -10,6 +10,20 @@ footer {
     color: var(--primary)
 }
 
-.copyright-group p {
+.copyright-group p h2 {
     color: var(--secondary)
+}
+
+.web-logos a {
+    margin-right: 1rem;
+}
+
+.faIcon {
+    width: clamp(10px,2vw,20px);
+    height: auto;
+    color: var(--secondary);
+}
+
+.faIcon:hover{
+    color: var(--primary);
 }
