@@ -4,342 +4,343 @@
         "title": "Calla Lily",
         "search": "Found near lakes in Mondstadt, especially Springvale",
         "image": "/assets/calla-lily.png",
-        "text": ""
+        "text": "A flower that grows near water sources. When cooked, the petals have a chunky texture, yet are sweet and a little bitter."
     },
     {
         "region": "Mondstadt",
         "title": "Cecilia",
         "search": "Found in the wild on Starsnatch Cliff",
         "image": "/assets/cecilia.png",
-        "text": ""
+        "text": "A beautiful flower with a name that suits its appearance. It only grows where harsh winds blow, and is just as intangible as the true heart of an unbound soul."
     },
     {
         "region": "Mondstadt",
         "title": "Dandelion Seed",
         "search": "Found in the wild in Mondstadt",
         "image": "/assets/dandelion.png",
-        "text": ""
+        "text": "A tiny seed that rides on the wind. Even without its feathered wings, it still holds the hope from afar within."
     },
     {
         "region": "Mondstadt",
         "title": "Philanemo Mushroom",
         "search": "Found under the eaves of houses in Mondstadt",
         "image": "/assets/philanemo-mushroom.png",
-        "text": ""
+        "text": "A fungus that grows in the warm caress of the wind. It is as everlasting as the wind, nourishing life."
     },
     {
         "region": "Mondstadt",
         "title": "Small Lamp Grass",
         "search": "Found in the wild in Mondstadt, especially Whispering Woods",
         "image": "/assets/lamp-grass.png",
-        "text": ""
+        "text": "A wild grass that emits light at night. Used in cooking to enhance other flavors."
     },
     {
         "region": "Mondstadt",
         "title": "Valberry",
         "search": "Found in the wild around Stormbearer Mountains and Point",
         "image": "/assets/valberry.png",
-        "text": ""
+        "text": "A plump and translucent berry that has a fragrant smell and a sweet, refreshing taste. In the past, the storm watchers' only solace was the sweetness of this fruit and hope for the city's peace."
     },
     {
         "region": "Mondstadt",
         "title": "Windwheel Aster",
         "search": "Found near the Statue at Windrise and Dawn Winery",
         "image": "/assets/windwheel-aster.png",
-        "text": ""
+        "text": "A plant that adores the wind. To the proud children of the wind, or the citizens of Mondstadt, the Windwheel Asters are 'the visible winds.'"
     },
     {
         "region": "Mondstadt",
         "title": "Wolfhook",
         "search": "Found in the wild in Wolvendom",
         "image": "/assets/wolfhook.png",
-        "text": ""
+        "text": "A berry with thorns that often gets attached to a wolf's pelt. When you look at it, you can almost hear the echoing cries of the wolves in the woods."
     },
     {
         "region": "Liyue",
         "title": "Clearwater Jade",
         "search": "Found in Chenyu Vale",
         "image": "/assets/clearwater-jade.png",
-        "text": ""
+        "text": "Jade from Chenyu Vale. Named for its cool, refreshing touch, that is much like clear water."
+
     },
     {
         "region": "Liyue",
         "title": "Cor Lapis",
         "search": "Found under cliffs in Liyue, especially Mt. Hulao",
         "image": "/assets/cor_lapis.png",
-        "text": ""
+        "text": "A precious crystal of condensed pure Geo element that usually grows along with other minerals. It's also commonly called 'Cor Petrae.'"
     },
     {
         "region": "Liyue",
         "title": "Glazy Lily",
         "search": "Found in Liyue Harbor and Qingce Vilalge",
         "image": "/assets/glaze_lily.png",
-        "text": ""
+        "text": "An extremely ancient flower that was said to be commonly seen in Liyue. It transforms the memories of the land into its fragrance during florescence."
     },
     {
         "region": "Liyue",
         "title": "Jueyun Chili",
         "search": "Found in the wild in Minlin, Qingce Village and Stone Gate",
         "image": "/assets/jueyun_chili.png",
-        "text": ""
+        "text": "A spicy plant native to Liyue. Merely smelling it makes one hot and thirsty."
     },
     {
         "region": "Liyue",
         "title": "Noctilucous Jade",
         "search": "Found in caves in Liyue, especially Mingyun Village",
         "image": "/assets/noctilucous-jade.png",
-        "text": ""
+        "text": "A rare mineral that glimmers in the dark. It's said to be a mutated gemstone condensed from the flourishing elements of the world."
     },
     {
         "region": "Liyue",
         "title": "Qingxin",
         "search": "Found in the heights of Liyue",
         "image": "/assets/qingxin.png",
-        "text": ""
+        "text": "A translucent white flower that only grows on the highest stone peaks. It eschews the warmth and moisture of the plains to gaze out afar from the solitary mountaintops."
     },
     {
         "region": "Liyue",
         "title": "Silk Flower",
         "search": "Found in Liyue Harbor and Wangshu Inn",
         "image": "/assets/silk-flower.png",
-        "text": ""
+        "text": "A crimson flower that blooms like the rainbow clouds in Liyue. It can be made into silky-smooth fabric."
     },
     {
         "region": "Liyue",
         "title": "Starconch",
         "search": "Found on the beaches of Liyue and Dragonspine",
         "image": "/assets/starconch.png",
-        "text": ""
+        "text": "Empty seashells brought ashore by the tides. Hold it close to your ear, and hear the longing calls of the sea."
     },
     {
         "region": "Liyue",
         "title": "Violetgrass",
         "search": "Found near cliffs in Liyue",
         "image": "/assets/violetgrass.png",
-        "text": ""
+        "text": "A small flower with strong vitality. It is said that its downward-blooming flower keeps its fragrance from dissipating."
     },
     {
         "region": "Inazuma",
         "title": "Amakumo Fruit",
         "search": "Found in the wild on Seira Island",
         "image": "/assets/amakumo-fruit.png",
-        "text": ""
+        "text": "The fruit of the Amakumo Grass, which grows on Seirai Island. You can hear it crackling with a tiny current if you hold it up to your ear."
     },
     {
         "region": "Inazuma",
         "title": "Crystal Marrow",
         "search": "Found on Orobashi's bones on Yashiori and Tatarasuna",
         "image": "/assets/crystal-marrow.png",
-        "text": ""
+        "text": "A crystal that contains a sliver of Tatarigami power. Adding this material during smelting will greatly increase the strength and toughness of metals."
     },
     {
         "region": "Inazuma",
         "title": "Dendrobium",
         "search": "Found in the wild on Kannazuka and Yashiori",
         "image": "/assets/dendrobium.png",
-        "text": ""
+        "text": "A vibrant plant that has also been named the 'lycoris' by the poets. It was once thought extinct in the Inazuman archipelago, only to re-emerge now upon the battlefields. It is said that it blooms most enchantingly where much blood was spilled."
     },
     {
         "region": "Inazuma",
         "title": "Fluorescent Fungus",
         "search": "Found in the wild on Tsurumi Island",
         "image": "/assets/fluorescent-fungus.png",
-        "text": ""
+        "text": "A mushroom that glows like a night-light. Some curious power lies hidden within it."
     },
     {
         "region": "Inazuma",
         "title": "Naku Weed",
         "search": "Found in areas of high electro concentration",
         "image": "/assets/naku-weed.png",
-        "text": ""
+        "text": "Even on windless days, this plant will tremble lightly amid the cries of thunder. The part of it that resembles petals are in fact extensions of the leaves meant to protect the fragile flower."
     },
     {
         "region": "Inazuma",
         "title": "Onikabuto",
         "search": "Found in areas of high electro concentration",
         "image": "/assets/onikabuto.png",
-        "text": ""
+        "text": "A strange beetle that inhabits areas rich with Electro energy. Its docile and sedentary temperament could not be more different from the fierce, demonic visage displayed on its armored shell."
     },
     {
         "region": "Inazuma",
         "title": "Sakura Bloom",
         "search": "Found in the wild on Narukami Island",
         "image": "/assets/sakura-bloom.png",
-        "text": ""
+        "text": "Blossoms from the Sacred Sakura at the Grand Narukami Shrine, filled with a fondness for Inazuma."
     },
     {
         "region": "Inazuma",
         "title": "Sango Pearl",
         "search": "Found in the wild on Watatsumi Island",
         "image": "/assets/sango-pearl.png",
-        "text": ""
+        "text": "A precious pearl that grows in the coral of Watatsumi. Gives off a cool sheen like that of the moonlight."
     },
     {
         "region": "Inazuma",
         "title": "Sea Ganoderma",
         "search": "Found on beaches and tidal flats of Inazuma",
         "image": "/assets/sea-ganoderma.png",
-        "text": ""
+        "text": "A plant species that only grows in certain regions and islands of the ocean. Though it looks like a fungus of some sort, it actually comes from a substance secreted by certain soft-bodied organisms."
     },
     {
         "region": "Sumeru",
         "title": "Henna Berry",
         "search": "Found in the deserts of Sumeru",
         "image": "/assets/henna-berry.png",
-        "text": ""
+        "text": "A fruit that grows even in the most hostile of desert environments. Its vibrant crimson fruits are made even more lovely against a backdrop of yellow sand."
     },
     {
         "region": "Sumeru",
         "title": "Kalpalata Lotus",
         "search": "Found in the mountains of Sumeru",
         "image": "/assets/kalpalata-lotus.png",
-        "text": ""
+        "text": "Flowers from vines that grow on cliff sides. It is called a lotus only because it has a similar appearance to one. Aside from that, it bears no other similar properties to the lotus."
     },
     {
         "region": "Sumeru",
         "title": "Mourning Flower",
         "search": "Found in the deserts of Sumeru",
         "image": "/assets/mourning-flower.png",
-        "text": ""
+        "text": "Crimson flowers that bloom on ancient battlefields. They can even flourish in the depths of the desert. Their drooping flowers seem to be in mourning for heroes long past."
     },
     {
         "region": "Sumeru",
         "title": "Nilotpala Lotus",
         "search": "Found near lakes and river banks in Sumeru",
         "image": "/assets/nilotpala-lotus.png",
-        "text": ""
+        "text": "Growing in the forest wetlands, these plants only bloom at night with flowers as bright as the moon."
     },
     {
         "region": "Sumeru",
         "title": "Padisarah",
         "search": "Found in Sumeru City",
         "image": "/assets/padisarah.png",
-        "text": ""
+        "text": "A holy and noble plant. The conditions for growth in its environment are very demanding. The flower buds can be processed to make valuable spices."
     },
     {
         "region": "Sumeru",
         "title": "Rukkhashava Mushrooms",
         "search": "Found in the wild in the Ashavan and Lokapala",
         "image": "/assets/rukkhashava-mushroom.png",
-        "text": ""
+        "text": "A fungus that grows in layers upon layers, like a sea of clouds, and which mostly grows on trees deep in the rainforest."
     },
     {
         "region": "Sumeru",
         "title": "Sand Grease Pupa",
         "search": "Found in the deserts of Sumeru",
         "image": "/assets/sand-grease-pupa.png",
-        "text": ""
+        "text": "You can only find such husks deep in the desert where the Quicksand Eels breed. The hardened shell is meant to protect the Quicksand Eels' larval bodies until they finally acclimate to the conditions of the dry desert."
     },
     {
         "region": "Sumeru",
         "title": "Scarab",
         "search": "Found in the desert ruins of Sumeru",
         "image": "/assets/scarab.png",
-        "text": ""
+        "text": "A tenacious beetle that finds repose within the vast ocean of desert sand. The golden pattern on such beetles' shells hints at some deep relationship between them and the ancient ruins that dot the desert."
     },
     {
         "region": "Sumeru",
         "title": "Trishiraite",
         "search": "Found in the deserts of Sumeru",
         "image": "/assets/trishiraite.png",
-        "text": ""
+        "text": "A splendorous stone that can be found in the depths of desolate mountains, seemingly formed from congealed elemental energy."
     },
     {
         "region": "Fontaine",
         "title": "Beryl Conch",
         "search": "Found underwater in the Source of All Waters",
         "image": "/assets/beryl-conch.png",
-        "text": ""
+        "text": "A conch-like structure that gives off a faint glow. Despite the name, it is not a shell but something condensed from pure elemental energy."
     },
     {
         "region": "Fontaine",
         "title": "Lakelight Lily ",
         "search": "Found near bodies of wter in Erinnyes Forest",
         "image": "/assets/lakelight-lily.png",
-        "text": ""
+        "text": "A clear and clean azure flower, it is born where Water Veins come together. It has a simple, cool, and elegant fragrance, pungent and refreshing yet gentle."
     },
     {
         "region": "Fontaine",
         "title": "Lumidouce Bell",
         "search": "Found in the north of the Court of Fontaine",
         "image": "/assets/lumidouce-bell.png",
-        "text": ""
+        "text": "A serene and tranquil violet flower. It has a light, soft, and lasting scent and is often used for making luxurious perfumes."
     },
     {
         "region": "Fontaine",
         "title": "Lumitoile",
         "search": "Found on the beaches and underwater in Liffey Region",
         "image": "/assets/lumitoile.png",
-        "text": ""
+        "text": "A soft-bodied animal that emits a gentle light. Often found climbing the walls of buildings near the water or underwater."
     },
     {
         "region": "Fontaine",
         "title": "Rainbow Rose",
         "search": "Found in the wilds of Beryl Region",
         "image": "/assets/rainbow-rose.png",
-        "text": ""
+        "text": "A delicate and tender pink flower. Despite their name, Rainbow Roses are essentially more akin to Lilies."
     },
     {
         "region": "Fontaine",
         "title": "Romaritime Flower",
         "search": "Found mainly in or around bodies of water in Fontaine",
         "image": "/assets/romaritime-flower.png",
-        "text": ""
+        "text": "An ethereal and elegant blue flower. Its tender petals are elastic and water-absorbent, making it the ideal raw material for various daily necessities."
     },
     {
         "region": "Fontaine",
         "title": "Spring of the First Dewdrop",
         "search": "Found underwater surrounding the Tower of Ipsissimus",
         "image": "/assets/spring-of-the-first-dewdrop.png",
-        "text": ""
+        "text": "A limpid drop of dew floating amidst the waters of Morte Region. It is different from other pure water bodies, as though it is a conglomeration of even more pure and primordial Elemental Energy."
     },
     {
         "region": "Fontaine",
         "title": "Subdetection Unit",
         "search": "Found in Fontaine Research Institute of Kinetic Energy",
         "image": "/assets/subdetection-unit.png",
-        "text": ""
+        "text": "Detection units produced by Fontaine Research Institute using new models of artificed components. Its original purpose was monitoring all kinds of environmental data."
     },
     {
         "region": "Natlan",
         "title": "Brilliant Chrysanthemum",
         "search": "Found in Natlan",
         "image": "/assets/brilliant-chrysanthemum.png",
-        "text": ""
+        "text": "A flower with a shape like floating wings. Its petals sway in an unbelievably relaxed, serene manner as they are caressed by the wind."
     },
     {
         "region": "Natlan",
         "title": "Glowing Hornshroom",
         "search": "Found in Tezcatepetonco Range",
         "image": "/assets/glowing-hornshroom.png",
-        "text": ""
+        "text": "A fungus that emits a faint light in the darkness. It is so named because its shape resembles the horny crest of an Iktomisaurus."
     },
     {
         "region": "Natlan",
         "title": "Quenapa Berry",
         "search": "Found in Natlan",
         "image": "/assets/quenapa-berry.png",
-        "text": ""
+        "text": "Bluish, juicy berries that grow in large amounts near the Scions of the Canopy. Their shape is similar to that of Flamegranates."
     },
     {
         "region": "Natlan",
         "title": "Saurian Claw Succulent",
         "search": "Found in Natlan",
         "image": "/assets/saurian-claw-succulent.png",
-        "text": ""
+        "text": "A succulent shaped like the paw of a great animal."
     },
     {
         "region": "Natlan",
         "title": "Sprayfeather Gill",
         "search": "Found in Natlan",
         "image": "/assets/sprayfeather-gill.png",
-        "text": ""
+        "text": "A special feather-shaped species of plant that grows by the seaside. It looks kind of like a seagrass but is in truth a soft-bodied aquatic coral with a unique shape."
     },
     {
         "region": "Natlan",
         "title": "Withering Purpurbloom",
         "search": "Found in Natlan",
         "image": "/assets/withering-purpurbloom.png",
-        "text": ""
+        "text": "A flower, the leaves and petals of which look scorched and withered, that can often be seen in places where ash abounds."
     }
 ]
