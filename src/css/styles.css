@@ -192,3 +192,28 @@ body {
     /* Custom pairs */
     --space-s-l: clamp(1.25rem, 0.8152rem + 2.1739vw, 2.5rem);
   }
+
+  /* svg */
+  .custom-shape-divider-top-1741829654 {
+    
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.custom-shape-divider-top-1741829654 svg {
+    position: relative;
+    display: block;
+    width: calc(151% + 1.3px);
+    height: 150px;
+}
+
+.custom-shape-divider-top-1741829654 .shape-fill {
+    fill: #353442;
+}
+
+html {
+  scroll-behavior: smooth;
+}

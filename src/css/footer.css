@@ -19,11 +19,15 @@ footer {
 }
 
 .faIcon {
-    width: clamp(10px,2vw,20px);
+    width: clamp(20px,2vw,30px);
     height: auto;
     color: var(--secondary);
 }
 
 .faIcon:hover{
     color: var(--primary);
+}
+
+.copyright-group {
+    margin-left: var(--space-m);
 }

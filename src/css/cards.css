@@ -7,6 +7,11 @@
     justify-content: center;
 }
 
+.card button {
+    margin-top: auto;
+    margin-bottom: var(--space-xs);
+}
+
 .card {
     display: flex;
     flex: 1 1 calc(33.33% - var(--space-s));
@@ -65,4 +70,27 @@
 
 .selected-card-img {
     width: clamp(80px,20vw,200px);
+}
+
+.selected-card-container p {
+    margin-left: var(--space-s);
+    margin-right: var(--space-s);
+}
+
+.selected-card-container button {
+    margin-top: auto;
+    margin-bottom: var(--space-s);
+    border: none;
+    background: var(--background-tri);
+    padding: 5px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.card button {
+    border: none;
+    background: var(--primary);
+    padding: 5px 20px;
+    border-radius: 5px;
+    cursor: pointer;
 }

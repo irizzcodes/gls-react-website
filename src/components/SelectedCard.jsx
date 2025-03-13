@@ -5,7 +5,7 @@ const SelectedCard = ({selectedCard, closeModal}) => {
         <img className="selected-card-img" src={selectedCard.image} alt={selectedCard.title} />
         <h2>{selectedCard.title}</h2>
         <p>{selectedCard.text}</p>
-        <button onClick={closeModal}>X</button>
+        <button onClick={closeModal}>Close</button>
     </div>
 }
 

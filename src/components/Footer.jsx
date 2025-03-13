@@ -5,7 +5,7 @@ import { faFacebook, faXTwitter, faGithub } from "@fortawesome/free-brands-svg-i
 const Footer = () => {
 
     return (
-        <footer>
+        <footer id="contact">
             <div className="web-logo">
                 <h2>Contact</h2>
                 <p>gennrey@gmail.com</p>
@@ -13,11 +13,11 @@ const Footer = () => {
                     <a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/Alao.is.the.best/">
                         <FontAwesomeIcon className="faIcon" icon={faFacebook} />
                     </a>
-                    <a target="_blank" rel="noopener noreferrer" href="https://x.com/home">
-                        <FontAwesomeIcon className="faIcon" icon={faXTwitter} />
-                    </a>
                     <a target="_blank" rel="noopener noreferrer" href="https://github.com/irizzcodes">
                         <FontAwesomeIcon className="faIcon" icon={faGithub} />
+                    </a>
+                    <a target="_blank" rel="noopener noreferrer" href="https://x.com/home">
+                        <FontAwesomeIcon className="faIcon" icon={faXTwitter} />
                     </a>
                 </div>
             </div>

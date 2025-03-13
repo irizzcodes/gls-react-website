@@ -18,13 +18,17 @@
 
 .image-button {
     flex: 1;
-    background-color: #353442;
-
-    box-shadow: inset 2px 2px 30px rgba(148, 134, 91, 0.5), 
-                inset -5px -5px 50px rgba(41, 45, 38, 0.2);
+    
+    background: linear-gradient(to bottom,
+        rgba(113, 91, 148, 0.5), #353442 100%,
+        transparent
+    );
     border: none;
     outline: none;
     cursor: pointer;
+
+    border-left: 1px solid rgba(255, 255, 255, 0.2); /* Adjust color & width */
+    border-right: 1px solid rgba(255, 255, 255, 0.2); /* Adjust as needed */
 }
 
 .image-button:hover {

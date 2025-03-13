@@ -28,7 +28,7 @@ const CardLayout = ( { selectedLocation, mainImages }) => {
         card => card.region === formattedLocation
     )
 
-    return <div>
+    return <div id="materials">
     <div className="card-title">
         <h1>{formattedLocation}</h1>
         <p>{mainImages?.title}</p>
