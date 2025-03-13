@@ -2,8 +2,8 @@ footer {
     display: flex;
     padding-top: var(--space-xs);
     padding-bottom: var(--space-xs);
-    padding-left: var(--space-l);
-    padding-right: var(--space-l);
+    padding-left: var(--space-m);
+    padding-right: var(--space-m);
     justify-content: space-between;
     align-items: center;
     background: var(--background-secondary);
@@ -30,4 +30,14 @@ footer {
 
 .copyright-group {
     margin-left: var(--space-m);
+}
+
+@media (max-width: 410px) {
+    .web-logo > p {
+        display: none;
+    }
+
+    .faIcon {
+        width: 15px;
+    }
 }

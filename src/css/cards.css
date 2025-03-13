@@ -94,3 +94,10 @@
     border-radius: 5px;
     cursor: pointer;
 }
+
+@media (max-width:800px) {
+    .card {
+        flex: 1 1 calc(50% - var(--space-s));
+    }
+
+}
