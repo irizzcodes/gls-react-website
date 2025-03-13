@@ -72,7 +72,7 @@
     width: clamp(80px,20vw,200px);
 }
 
-.selected-card-container p {
+.selected-card-container p, h2 {
     margin-left: var(--space-s);
     margin-right: var(--space-s);
 }
@@ -82,6 +82,7 @@
     margin-bottom: var(--space-s);
     border: none;
     background: var(--background-tri);
+    color: var(--text);
     padding: 5px 20px;
     border-radius: 5px;
     cursor: pointer;
@@ -99,5 +100,10 @@
     .card {
         flex: 1 1 calc(50% - var(--space-s));
     }
+}
 
+@media (max-width:500px) {
+    .card {
+        flex: 1 1 calc(100% - var(--space-s));
+    }
 }
